@@ -1,0 +1,11 @@
+Handling missing data
+Three very commonly used techniques.
+- Delete the records containing missing values (only when the data set is huge)
+- Create a separate training model to predict the missing values (not feasible because it takes a lot of time and effort)
+- Statistical methods (mean, median, mode)
+
+
+What is data imputation? 
+It is the process of substituting the missing values in the dataset with some number based on certain standard principles or techniques.
+It is on of the most import parts of the feature engineering pipeline. 
+
